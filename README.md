@@ -1,7 +1,7 @@
 #  Repositório do Desafio de Projeto sobre GIT/GITHUB da DIO 
 Sejam bem Vindos!!! :smiley:
 
-Este repositório foi criado para o desafio de Projeto da DIO. 
+Este repositório foi criado para mostrar minha evolução no desafios de Projeto da DIO. 
 
 
 
